@@ -16,6 +16,7 @@
         <module>tjcloud-face-core</module>
         <module>tjcloud-dd-core</module>
         <module>tjcloud-match-core</module>
+        <module>tjcloud-uac-core</module>
     </modules>
 
     <properties>
