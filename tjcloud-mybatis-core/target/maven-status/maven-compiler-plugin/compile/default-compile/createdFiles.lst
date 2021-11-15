@@ -1,0 +1,11 @@
+com\tjcloud\data\mybatis\dao\AbstractIBatisDao.class
+com\tjcloud\data\mybatis\service\impl\IbatisServiceImpl.class
+com\tjcloud\data\mybatis\dao\impl\IBatisDaoImpl.class
+com\tjcloud\data\mybatis\dao\IBatisDao.class
+com\tjcloud\data\mybatis\service\impl\AbstractIbatisServiceImpl.class
+com\tjcloud\data\mybatis\interceptor\IbatisInterceptor.class
+com\tjcloud\data\utils\DBSource.class
+com\tjcloud\data\mybatis\dao\impl\AbstractIBatisDaoImpl.class
+com\tjcloud\data\aspect\MPowerAspect.class
+com\tjcloud\data\utils\DBContextHolder.class
+com\tjcloud\data\utils\DynamicDataSource.class

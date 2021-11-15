@@ -1,0 +1,11 @@
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\utils\DBSource.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\mybatis\service\impl\IbatisServiceImpl.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\utils\DBContextHolder.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\utils\DynamicDataSource.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\aspect\MPowerAspect.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\mybatis\dao\IBatisDao.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\mybatis\service\impl\AbstractIbatisServiceImpl.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\mybatis\dao\AbstractIBatisDao.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\mybatis\dao\impl\IBatisDaoImpl.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\mybatis\dao\impl\AbstractIBatisDaoImpl.java
+C:\projects\tjcloud-core-libs\tjcloud-mybatis-core\src\main\java\com\tjcloud\data\mybatis\interceptor\IbatisInterceptor.java

@@ -2,19 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>tjcloud-core-libs</artifactId>
+        <groupId>com.tjcloud</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.tjcloud</groupId>
-    <artifactId>tjcloud-core-libs</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>tjcloud-pay-core</module>
-        <module>tjcloud-web-core</module>
-        <module>tjcloud-auth-core</module>
-        <module>tjcloud-mybatis-core</module>
-        <module>tjcloud-redis-core</module>
-    </modules>
+    <artifactId>tjcloud-redis-core</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -23,9 +18,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.tjcloud</groupId>
-            <artifactId>tjcloud-core</artifactId>
-            <version>3.0</version>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>2.9.0</version>
         </dependency>
     </dependencies>
 
